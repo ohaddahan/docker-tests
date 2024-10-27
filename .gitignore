@@ -1,0 +1,5 @@
+ubuntu-builder.pem
+.env
+.idea
+target
+target-docker
